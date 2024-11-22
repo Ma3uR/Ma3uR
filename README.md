@@ -2,6 +2,8 @@
 
 I am a Full-Stack Software Engineer specializing in developing dynamic web applications. Passionate about AI-driven projects, I integrate cutting-edge technologies to deliver robust and scalable solutions.
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ma3uR&show_icons=true&theme=radical)
+
 ---
 
 ## Key Skills
@@ -10,7 +12,7 @@ I am a Full-Stack Software Engineer specializing in developing dynamic web appli
 - **Cloud Services:** AWS (EC2, S3, Lambda), Vercel, Coolify  
 - **Databases:** MySQL, PostgreSQL, MongoDB, PocketBase  
 - **DevOps:** Docker, Kubernetes, Git, CI/CD Pipelines  
-- **AI Integration:** Machine Learning Models, AI APIs  
+- **AI Integration:** Machine Learning Models, AI APIs, fine-tuning
 - **Self-Hosted Applications:** Deployment and management  
 - **Management:** Team leadership, process optimization  
 
@@ -24,9 +26,16 @@ I am a Full-Stack Software Engineer specializing in developing dynamic web appli
 
 ---
 
+## 📫 How to Reach Me
+- Full-stack development with Next.js
+- Deploying self-hosted applications
+- Process optimization and management strategies
+- 
+
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/andrii-mazurenko-8868181b2/)
 - [GitHub](https://github.com/Ma3uR)
+- [Email] (andriimazurenko99@gmail.com)
 
 ---
 
