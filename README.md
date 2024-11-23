@@ -2,8 +2,6 @@
 
 I am a Full-Stack Software Engineer specializing in developing dynamic web applications. Passionate about AI-driven projects, I integrate cutting-edge technologies to deliver robust and scalable solutions.
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiMazurenkoo&show_icons=true&theme=radical)
-
 ---
 
 ## Key Skills
