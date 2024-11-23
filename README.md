@@ -25,15 +25,8 @@ I am a Full-Stack Software Engineer specializing in developing dynamic web appli
 - Optimized cloud infrastructure with AWS, Vercel, and Coolify, reducing costs and improving reliability.  
 - Demonstrated strong management skills, driving process optimization and continuous improvement.  
 
----
 
 ## 📫 How to Reach Me
-- Full-stack development with Next.js
-- Deploying self-hosted applications
-- Process optimization and management strategies
-- 
-
-## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/andrii-mazurenko-8868181b2/)
 - [GitHub](https://github.com/Ma3uR)
 - [Email] (andriimazurenko99@gmail.com)
