@@ -11,8 +11,8 @@ I am a Full-Stack Software Engineer specializing in developing dynamic web appli
 - **Back-End:** PHP (Symfony), Node.js  
 - **Front-End:** JavaScript (Next.js, React), HTML5, CSS3  
 - **Cloud Services:** AWS, Vercel, Coolify, Digital Ocean 
-- **Databases:** MySQL, PostgreSQL, MongoDB, PocketBase  
-- **DevOps:** Docker, Kubernetes, Git, CI/CD Pipelines  
+- **Databases:** MySQL, PostgreSQL, MongoDB, PocketBase, Supabase
+- **DevOps:** Docker, Coolify, Git, CI/CD Pipelines, AWS
 - **AI Integration:** Machine Learning Models, AI APIs, fine-tuning, LLM's
 - **Self-Hosted Applications:** Deployment and management
 - **Management:** Team leadership, process optimization  
