@@ -9,13 +9,12 @@ I am a Full-Stack Software Engineer specializing in developing dynamic web appli
 
 ## Key Skills
 - **Back-End:** PHP (Symfony), Node.js  
-- **Front-End:** JavaScript (Next.js, React), HTML5, CSS3  
-- **Cloud Services:** AWS, Vercel, Coolify, Digital Ocean 
+- **Front-End:** JavaScript (Next.js, React) Tailwind, Shadcn
+- **Cloud Services:** AWS, Vercel, Coolify, Digital Ocean
 - **Databases:** MySQL, PostgreSQL, MongoDB, PocketBase, Supabase
 - **DevOps:** Docker, Coolify, Git, CI/CD Pipelines, AWS
-- **AI Integration:** Machine Learning Models, AI APIs, fine-tuning, LLM's
-- **Self-Hosted Applications:** Deployment and management
-- **Management:** Team leadership, process optimization  
+- **AI Integration:** KaibanJS, CrewAi, Vercel AI SDK 
+- **Management:** Team leadership, process optimization
 
 ---
 
