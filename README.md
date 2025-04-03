@@ -1,7 +1,7 @@
 # Full-Stack Software Engineer | Next.js, AWS, AI-Driven Projects
 
 I am a Full-Stack Software Engineer specializing in developing dynamic web applications. Passionate about AI-driven projects, I integrate cutting-edge technologies to deliver robust and scalable solutions.
-
+ 
 - **Current Role:**  
   I'm currently working full-time at [AndriiMazurenkoo's GitHub](https://github.com/AndriiMazurenkoo?tab=overview&from=2024-09-01&to=2024-09-30), contributing and focused on innovative projects leveraging AI, cloud solutions, and scalable web technologies.
 
